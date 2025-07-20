@@ -9,4 +9,4 @@ tags:
 
 # my first blog post!
 
-Today I leeared how to deploy a documentation site.
+Today I leeared how to deploy a documentation site. new thing to learn.
